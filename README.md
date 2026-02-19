@@ -1,2 +1,8 @@
-# AamzonWebService-50-Day-Task
-Tracking progress for the AWS 50-day challenge
+# 50 Days of AWS Challenge
+
+Daily progress tracking for my AWS journey.
+
+- [x] **Day 1:** Create Key Pair
+- [x] **Day 2:** Create Security Group
+- [x] **Day 3:** Create Subnet
+...

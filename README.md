@@ -9,5 +9,6 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 5:** Create GP3 Volumn
 - [x] **Day 6:** Launch EC2 instance
 - [x] **Day 7:** Change EC2 instance type
-- [ ] **Day 8:** Enable Stop Protection for EC2 Instance
+- [x] **Day 8:** Enable Stop Protection for EC2 Instance
+- [ ] **Day 9:** Enable termination Protection for EC2 Instance
 ...

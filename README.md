@@ -10,5 +10,6 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 6:** Launch EC2 instance
 - [x] **Day 7:** Change EC2 instance type
 - [x] **Day 8:** Enable Stop Protection for EC2 Instance
-- [ ] **Day 9:** Enable termination Protection for EC2 Instance
+- [x] **Day 9:** Enable termination Protection for EC2 Instance
+- [ ] **Day 10:** Attach Elastic IP to EC2 Instance
 ...

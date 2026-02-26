@@ -1,7 +1,7 @@
 Enable Versioning for S3 Bucket
 --
 Why :
-Versioning preserves all versions of an object, providing protection against accidental deletions and overwrites
+Versioning preserves all versions of an object, providing protection against accidental deletions and overwrites.
 
 Implementation checklist :
 1) Using the AWS Management Console

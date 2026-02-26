@@ -1,6 +1,6 @@
 Enable termination protection for ec2 instance.
 --
-why to enable termination protection :
+why to enable termination protection.
 It Prevents accidental deletion of instances by unauthorized or accidental API calls.
 
 Checklist :

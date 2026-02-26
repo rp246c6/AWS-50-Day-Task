@@ -1,5 +1,5 @@
 Create GP3 Volumn
-
+--
 Why : AWS introduced gp3 volumes (General Purpose SSD) to provide a more flexible, cost-effective storage option, 
 offering 20% lower cost per GB than gp2 and allowing independent scaling of IOPS and throughput from storage capacity
 

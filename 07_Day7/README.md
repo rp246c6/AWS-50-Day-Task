@@ -1,6 +1,6 @@
 Change EC2 instance type
 --
-why Change EC2 instance type was introduced :
+why Change EC2 instance type was introduced .
 The ability to change an Amazon EC2 instance type was introduced to provide flexibility, 
 cost optimization, performance tuning, and scalability without requiring users to build new infrastructure from scratch
 

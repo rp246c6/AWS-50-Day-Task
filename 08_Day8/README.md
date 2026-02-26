@@ -5,7 +5,7 @@ This prevents accidental API stop actions, not necessarily shutdowns initiated f
 
 Implementation checklist:
 --
-Steps to Enable Stop Protection (Console)
+Steps to Enable Stop Protection (Console):
 Open the Amazon EC2 console.
 Navigate to Instances and select the instance.
 Choose Actions > Instance settings > Change stop protection.

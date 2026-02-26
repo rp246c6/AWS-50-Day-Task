@@ -5,7 +5,7 @@ Elastic IP (EIP) is attached to an EC2 instance to provide a static,
 persistent public IPv4 address that does not change when an instance is stopped, started, or restarted. 
 
 checklist:
-1) Select the Elastic IP address .
+1) Select the Elastic IP address.
 2) From the Actions dropdown menu, choose Associate Elastic IP address.
 3) On the "Associate Elastic IP address" page:
 4) For "Resource type", select Instance.

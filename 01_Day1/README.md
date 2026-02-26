@@ -3,7 +3,7 @@ Create Key Pair
 
 Why you need Key Pair in AWS:
 --
-You need to create a key pair in AWS primarily to securely authenticate and connect to your EC2 instances
+You need to create a key pair in AWS primarily to securely authenticate and connect to your EC2 instances.
 
 Checklist for implementation
 --

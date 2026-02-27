@@ -12,5 +12,6 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 8:** Enable Stop Protection for EC2 Instance.
 - [x] **Day 9:** Enable termination Protection for EC2 Instance.
 - [x] **Day 10:** Attach Elastic IP to EC2 Instance.
-- [ ] **Day 11:** Attach Elastic Network Interface to EC2 Instance.
+- [x] **Day 11:** Attach Elastic Network Interface to EC2 Instance.
+- [ ] **Day 12:** Attach Volume to EC2 Instance.
 ...

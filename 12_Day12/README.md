@@ -3,7 +3,7 @@ Attach Volume to EC2 instance
 why to attach:
 --
 Attaching an EBS volume to an Amazon EC2 instance provides persistent,
-scalable, and high-performance block-level storage that survives instance termination
+scalable, and high-performance block-level storage that survives instance termination.
 
 Implementation checklist:
 --

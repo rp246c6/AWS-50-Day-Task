@@ -1,6 +1,6 @@
 Create AMI from EC2 Instance
 --
-why to create AMI for EC2 Instance:
+why to create AMI for EC2 Instance.
 Creating an Amazon Machine Image (AMI) for an EC2 instance is essential
 to create a reusable template of your server's configuration,
 including the OS, installed software, and application data

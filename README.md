@@ -15,5 +15,6 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 11:** Attach Elastic Network Interface to EC2 Instance.
 - [x] **Day 12:** Attach Volume to EC2 Instance.
 - [x] **Day 13:** Create AMI from EC2 Instance.
-- [ ] **Day 14:** Terminate EC2 Instance.
+- [x] **Day 14:** Terminate EC2 Instance.
+- [ ] **Day 15:** Create Volume Snapshot.
 ...

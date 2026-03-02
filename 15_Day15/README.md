@@ -1,6 +1,6 @@
 Create Volume Snapshot
 --
-Why to create Volumn Snapshot
+Why to create Volumn Snapshot:
 Creating a volume snapshot involves generating a point-in-time, 
 read-only copy of data from a storage volume to ensure data backup or state preservation.
 

@@ -11,4 +11,4 @@ Implementation checklist:
 4) Click “Yes” to confirm.
 
 Note:
-It is primarily done to eliminate costs for unused resources, remove failed or unhealthy instances, or finalize automated scaling actions
+It is primarily done to eliminate costs for unused resources, remove failed or unhealthy instances, or finalize automated scaling actions.

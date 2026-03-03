@@ -5,7 +5,7 @@ Creating a volume snapshot involves generating a point-in-time,
 read-only copy of data from a storage volume to ensure data backup or state preservation.
 
 Checklist for Implementation
-1) Go to the EC2 Console 
+1) Go to the EC2 Console. 
 2) select Volumes
 3) Add tags and a description before finalization
 4) Create Snapshot  > Actions > Create Snapshot.

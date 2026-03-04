@@ -17,5 +17,6 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 13:** Create AMI from EC2 Instance.
 - [x] **Day 14:** Terminate EC2 Instance.
 - [x] **Day 15:** Create Volume Snapshot.
-- [ ] **Day 16:** Create IAM User.
+- [x] **Day 16:** Create IAM User.
+- [ ] **Day 17:** Create IAM Group.
 ...

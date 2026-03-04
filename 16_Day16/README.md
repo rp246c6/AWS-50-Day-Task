@@ -5,7 +5,7 @@ why to create IAM User:
 Creating an IAM (Identity and Access Management) user is the first rule of security in AWS.
 
 Checklist for Implementation:
-1. Navigate to the IAM Dashboard 
+1. Navigate to the IAM Dashboard. 
 2. Sign in to the AWS Console as a root user or an administrator.
 3. Search for IAM in the top search bar and select it.
 4. In the left navigation pane, click on Users and then select Create user (or Add users). 

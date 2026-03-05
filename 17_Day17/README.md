@@ -2,7 +2,7 @@ Create IAM Group
 --
 why to create IAM group:
 an IAM Group is a collection of IAM users that allows 
-you to manage permissions for multiple users at once, rather than individually.
+you to manage permissions for multiple users at once, rather than individually .
 
 Checklist to implement:
 1) Sign in to the AWS Management Console and open the IAM console.

@@ -19,5 +19,7 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 15:** Create Volume Snapshot.
 - [x] **Day 16:** Create IAM User.
 - [x] **Day 17:** Create IAM Group.
-- [ ] **Day 18:** Create Read-Only IAM Policy for EC2 Console Access
+- [x] **Day 18:** Create Read-Only IAM Policy for EC2 Console Access.
+- [ ] **Day 19:** Attach the IAM policy to IAM User.
+
 ...

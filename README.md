@@ -20,6 +20,7 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 16:** Create IAM User.
 - [x] **Day 17:** Create IAM Group.
 - [x] **Day 18:** Create Read-Only IAM Policy for EC2 Console Access.
-- [ ] **Day 19:** Attach the IAM policy to IAM User.
+- [x] **Day 19:** Attach the IAM policy to IAM User.
+- [ ] **Day 20:** Create IAM Role for EC2 with Policy Attachment.
 
 ...

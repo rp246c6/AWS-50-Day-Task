@@ -1,6 +1,6 @@
 Attach IAM Policy to IAM User
 --
-Why to attach IAM Policy
+Why to attach IAM Policy:
 Attaching an IAM policy to an IAM user is essential 
 to grant specific, authorized permissions for accessing and managing AWS services and resources.
 

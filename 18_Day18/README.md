@@ -5,7 +5,7 @@
  which minimizes the security "blast radius" in the event of compromised credentials or human error.
 
  Checklist for implementing :
-1)  Sign in to the AWS Management Console and open the IAM console.
+1) Sign in to the AWS Management Console and open the IAM console.
 2) In the navigation pane, select Policies, and then select Create policy.
 3) Switch to the JSON tab and paste the Json policy document.
 4) Choose Next.

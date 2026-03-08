@@ -2,7 +2,7 @@ Create IAM Role for EC2 with Policy Attachment
 --
 why to create IAM Role for EC2 with Policy attached.
 provides secure, temporary credentials for applications 
-to access AWS services (like S3 or DynamoDB) without hardcoding long-term keys
+to access AWS services (like S3 or DynamoDB) without hardcoding long-term keys.
 
 Implementation checklist
 1) Sign in to the AWS IAM console.

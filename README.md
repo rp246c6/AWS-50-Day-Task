@@ -24,7 +24,8 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 20:** Create IAM Role for EC2 with Policy Attachment.
 - [x] **Day 21:** Setting Up an EC2 Instance with an Elastic IP for Application Hosting.
 - [x] **Day 22:** Configuring Secure SSH Access to an EC2 Instance.
-- [ ] **Day 23:** Data Migration Between S3 Buckets Using AWS CLI.
+- [x] **Day 23:** Data Migration Between S3 Buckets Using AWS CLI.
+- [] **Day 24:** Setting Up an Application Load Balancer for an EC2 Instance.
 
 
 ...

@@ -1,4 +1,4 @@
-Setting Up an Application Load Balancer for an EC2 Instance
+Setting Up an Application Load Balancer for an EC2 Instance.
 --
 why to set up ALB for Ec2 instance:
 The ALB acts as a single point of contact for clients and distributes incoming traffic to healthy EC2 instances. 

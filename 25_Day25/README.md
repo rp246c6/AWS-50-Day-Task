@@ -6,7 +6,7 @@ Setting up an Amazon EC2 instance with CloudWatch Alarms is essential as it moni
 or memory utilization, triggering automatic alerts or actions—such as restarting a failed instance or 
 sending notifications—before issues cause downtime.
 
-checklist for implementation:
+checklist for implementation.
 1) Launch the EC2 Instance.
 2) Create the CloudWatch Alarm.
 3) Verify Configuration.

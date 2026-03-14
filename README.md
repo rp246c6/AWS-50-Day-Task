@@ -27,7 +27,8 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 23:** Data Migration Between S3 Buckets Using AWS CLI.
 - [x] **Day 24:** Setting Up an Application Load Balancer for an EC2 Instance.
 - [x] **Day 25:** Setting Up an EC2 Instance and CloudWatch Alarm.
-- [ ] **Day 26:** Configuring an EC2 Instance as a Web Server with Nginx.
+- [x] **Day 26:** Configuring an EC2 Instance as a Web Server with Nginx.
+- [ ] **Day 27:** Configuring a Public VPC with an EC2 Instance for Internet Access.
 
 
 ...

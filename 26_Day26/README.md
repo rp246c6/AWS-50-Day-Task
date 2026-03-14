@@ -1,7 +1,7 @@
 Configuring an EC2 Instance as a Web Server with Nginx
 --
 Why to configure EC2 Instance as a webServer with Nginx
---
+
 Nginx on EC2 is a popular choice for developers building modern, high-performance 
 web applications that require stability, speed, and the ability to handle a large volume of concurrent users
 

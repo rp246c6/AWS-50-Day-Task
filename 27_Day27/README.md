@@ -1,6 +1,6 @@
 Configuring a Public VPC with an EC2 Instance for Internet Access
 --
-why to configure a public vpc with an Ec2 instance for internet access
+why to configure a public vpc with an Ec2 instance for internet access.
 
 Enables direct, bidirectional communication between your cloud resources and the public internet.
 

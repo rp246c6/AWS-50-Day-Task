@@ -1,7 +1,7 @@
 Creating a Private ECR Repository
 --
 why to create a private ECR repository.
---
+
 Creating a private repository in AWS (e.g., using Amazon ECR for containers or AWS CodeCommit for source code) is
 primarily for security, access control, and seamless integration within your private cloud environment and CI/CD pipelines.
 

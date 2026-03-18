@@ -31,7 +31,9 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 27:** Configuring a Public VPC with an EC2 Instance for Internet Access.
 - [x] **Day 28:** Creating a Private ECR Repository.
 - [x] **Day 29:** Establishing Secure Communication Between Public and Private VPCs via VPC Peering.
-- [ ] **Day 30:** Enable Internet Access for Private EC2 using NAT Instance.
+- [x] **Day 30:** Enable Internet Access for Private EC2 using NAT Instance.
+- [ ] **Day 31:** Configuring a Private RDS Instance for Application Development
+
 
 
 

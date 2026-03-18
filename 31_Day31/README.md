@@ -1,7 +1,7 @@
 Configuring a Private RDS Instance for Application Development
 --
-why to configure private RDS Instance for application Developement
-isolates the database from the public internet, enhancing security by preventing unauthorized access.
+why to configure private RDS Instance for application Developement.
+It isolates the database from the public internet, enhancing security by preventing unauthorized access.
 
 Checklist for Implementation:
 1) Set Variables

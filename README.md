@@ -33,7 +33,9 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 29:** Establishing Secure Communication Between Public and Private VPCs via VPC Peering.
 - [x] **Day 30:** Enable Internet Access for Private EC2 using NAT Instance.
 - [x] **Day 31:** Configuring a Private RDS Instance for Application Development
-- [ ] **Day 32:** Snapshot and Restoration of an RDS Instance.
+- [x] **Day 32:** Snapshot and Restoration of an RDS Instance.
+- [x] **Day 33:** Create a Lambda Function.
+- [ ] **Day 34:** Create a Lambda Function using CLI.
 
 
 

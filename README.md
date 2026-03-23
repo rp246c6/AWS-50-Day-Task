@@ -35,7 +35,8 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 31:** Configuring a Private RDS Instance for Application Development
 - [x] **Day 32:** Snapshot and Restoration of an RDS Instance.
 - [x] **Day 33:** Create a Lambda Function.
-- [ ] **Day 34:** Create a Lambda Function using CLI.
+- [x] **Day 34:** Create a Lambda Function using CLI.
+- [ ] **Day 35:** Deploying and Managing Applications on AWS.
 
 
 

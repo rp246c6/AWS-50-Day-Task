@@ -36,7 +36,9 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 32:** Snapshot and Restoration of an RDS Instance.
 - [x] **Day 33:** Create a Lambda Function.
 - [x] **Day 34:** Create a Lambda Function using CLI.
-- [ ] **Day 35:** Deploying and Managing Applications on AWS.
+- [x] **Day 35:** Deploying and Managing Applications on AWS.
+- [ ] **Day 36:** Load Balancing EC2 Instances with Application Load Balancer.
+
 
 
 

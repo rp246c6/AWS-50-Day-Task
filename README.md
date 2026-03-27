@@ -38,7 +38,8 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 34:** Create a Lambda Function using CLI.
 - [x] **Day 35:** Deploying and Managing Applications on AWS.
 - [x] **Day 36:** Load Balancing EC2 Instances with Application Load Balancer.
-- [ ] **Day 37:** Managing EC2 Access with S3 Role-based Permissions
+- [x] **Day 37:** Managing EC2 Access with S3 Role-based Permissions
+- [] **Day 38:** Deploying Containerized Applications with Amazon ECS
 
 
 

@@ -39,7 +39,9 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 35:** Deploying and Managing Applications on AWS.
 - [x] **Day 36:** Load Balancing EC2 Instances with Application Load Balancer.
 - [x] **Day 37:** Managing EC2 Access with S3 Role-based Permissions
-- [] **Day 38:** Deploying Containerized Applications with Amazon ECS
+- [x] **Day 38:** Deploying Containerized Applications with Amazon ECS
+- [ ] **Day 39:** Hosting a Static Website on AWS S3.
+
 
 
 

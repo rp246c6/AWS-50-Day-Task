@@ -42,7 +42,8 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 38:** Deploying Containerized Applications with Amazon ECS
 - [x] **Day 39:** Hosting a Static Website on AWS S3.
 - [x] **Day 40:** Troubleshooting Internet Accessibility for an EC2-Hosted Application.
-- [ ] **Day 41:** Securing Data with AWS KMS.
+- [x] **Day 41:** Securing Data with AWS KMS.
+- [ ] **Day 42:** Building and Managing NoSQL Databases with AWS DynamoDB.
 
 
 

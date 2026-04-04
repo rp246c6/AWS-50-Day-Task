@@ -46,7 +46,8 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 42:** Building and Managing NoSQL Databases with AWS DynamoDB.
 - [x] **Day 43:** Scaling and Managing Kubernetes Clusters with Amazon EKS
 - [x] **Day 44:** Implementing Auto Scaling for High Availability in AWS
-- [ ] **Day 45:** Configure NAT Gateway for Internet Access in a Private VPC
+- [x] **Day 45:** Configure NAT Gateway for Internet Access in a Private VPC
+- [ ] **Day 46:** Event-Driven Processing with Amazon S3 and Lambda
 
 
 

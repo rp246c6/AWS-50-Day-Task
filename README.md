@@ -44,10 +44,11 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 40:** Troubleshooting Internet Accessibility for an EC2-Hosted Application.
 - [x] **Day 41:** Securing Data with AWS KMS.
 - [x] **Day 42:** Building and Managing NoSQL Databases with AWS DynamoDB.
-- [x] **Day 43:** Scaling and Managing Kubernetes Clusters with Amazon EKS
-- [x] **Day 44:** Implementing Auto Scaling for High Availability in AWS
-- [x] **Day 45:** Configure NAT Gateway for Internet Access in a Private VPC
-- [ ] **Day 46:** Event-Driven Processing with Amazon S3 and Lambda
+- [x] **Day 43:** Scaling and Managing Kubernetes Clusters with Amazon EKS.
+- [x] **Day 44:** Implementing Auto Scaling for High Availability in AWS.
+- [x] **Day 45:** Configure NAT Gateway for Internet Access in a Private VPC.
+- [x] **Day 46:** Event-Driven Processing with Amazon S3 and Lambda.
+- [ ] **Day 47:** Integrating AWS SQS and SNS for Reliable Messaging.
 
 
 

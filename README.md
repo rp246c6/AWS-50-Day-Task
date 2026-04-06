@@ -48,7 +48,9 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 44:** Implementing Auto Scaling for High Availability in AWS.
 - [x] **Day 45:** Configure NAT Gateway for Internet Access in a Private VPC.
 - [x] **Day 46:** Event-Driven Processing with Amazon S3 and Lambda.
-- [ ] **Day 47:** Integrating AWS SQS and SNS for Reliable Messaging.
+- [x] **Day 47:** Integrating AWS SQS and SNS for Reliable Messaging.
+- [ ] **Day 48:** Automating Infrastructure Deployment with AWS CloudFormation.
+
 
 
 

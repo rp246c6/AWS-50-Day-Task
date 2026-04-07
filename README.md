@@ -49,7 +49,8 @@ Daily progress tracking for my AWS journey.
 - [x] **Day 45:** Configure NAT Gateway for Internet Access in a Private VPC.
 - [x] **Day 46:** Event-Driven Processing with Amazon S3 and Lambda.
 - [x] **Day 47:** Integrating AWS SQS and SNS for Reliable Messaging.
-- [ ] **Day 48:** Automating Infrastructure Deployment with AWS CloudFormation.
+- [x] **Day 48:** Automating Infrastructure Deployment with AWS CloudFormation.
+- [ ] **Day 49:** Centralized Audit Logging with VPC Peering
 
 
 

@@ -1,6 +1,6 @@
 --------
 Terminal 1
---------
+---------
 ping <private ip> -c 5
 
 sssh into public instance
